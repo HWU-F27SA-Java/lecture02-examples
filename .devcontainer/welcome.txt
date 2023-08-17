@@ -1,0 +1,6 @@
+Welcome to F27SA Lecture 2! 💻
+
+To get started, head over to the ./src folder and
+click on any of the Java files provided.
+
+Happy Coding :)

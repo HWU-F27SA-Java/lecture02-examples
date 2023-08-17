@@ -1,0 +1,28 @@
+{
+	"name": "F27SA Codespace",
+	"image": "mcr.microsoft.com/devcontainers/java",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				// Java Extension Pack
+				"vscjava.vscode-java-pack",
+				// Miscellaneous Extensions
+				"VisualStudioExptTeam.vscodeintellicode",
+				// Eclipse-styled themes
+				"arzg.eclipse",
+				"solrike.eclipse-theme-by-solrike",
+				"eamodio.gitlens"
+			]
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/java:1": {
+			"version": "latest",
+			"jdkDistro": "oracle",
+			"installGradle": true,
+			"installMaven": true,
+			"installAnt": true
+		}
+	},
+	"postCreateCommand": "sudo cp .devcontainer/welcome.txt /usr/local/etc/vscode-dev-containers/first-run-notice.txt"
+}
