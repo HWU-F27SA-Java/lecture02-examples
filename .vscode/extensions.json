@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		// Java Extension Pack
+		"vscjava.vscode-java-pack",
+		// Miscellaneous Extensions
+		"VisualStudioExptTeam.vscodeintellicode",
+		// Eclipse-styled themes
+		"arzg.eclipse",
+		"solrike.eclipse-theme-by-solrike",
+		"eamodio.gitlens"
+	]
+}
