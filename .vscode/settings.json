@@ -1,0 +1,13 @@
+{
+	"workbench.iconTheme": "eclipse-file-icons-by-solrike",
+	"workbench.colorTheme": "Eclipse Dark",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.stickyScroll.enabled": true,
+	"editor.minimap.scale": 2,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"editor.indentSize": "tabSize",
+	"editor.wordWrap": "on",
+	"editor.renderWhitespace": "all",
+	"files.trimTrailingWhitespace": true
+}
